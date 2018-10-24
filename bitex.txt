@@ -1,2 +1,5 @@
 hub
-spoke
++spoke
++nipple
++rim
+=wheel
